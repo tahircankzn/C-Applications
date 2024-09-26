@@ -227,6 +227,7 @@ int main() {
 			case 15 :
 				{
 					menu();
+					break;
 				}
 			// UYGULAMADAN ÇIKIŞ
 			case 0 :
